@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.form-section {
+    margin-bottom: 20px;
+}
+
+input, select {
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#resume {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Light Theme */
+.light {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+/* Dark Theme */
+.dark {
+    background-color: #333;
+    color: white;
+}
+
+/* Blue Theme */
+.blue {
+    background-color: #e6f0ff;
+    color: #003366;
+}
